@@ -1,0 +1,41 @@
+.admin-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.stock-list {
+  margin-bottom: 20px;
+}
+
+.stock-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.stock-list li {
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.logout-button {
+  background-color: red; /* Mudança da cor do botão de logout para vermelho */
+  color: white; /* Mudança da cor do texto para branco */
+}
+
+.logout-button:hover {
+  background-color: darkred; /* Mudança da cor de fundo ao passar sobre o botão de logout */
+}
+.remove-button {
+  margin-left: 30px; /* Adiciona margem à esquerda para mover o botão mais para a direita */
+}

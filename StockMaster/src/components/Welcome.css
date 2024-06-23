@@ -1,0 +1,24 @@
+.welcome-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.welcome-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-button {
+  background-color: red; /* Mudança da cor do botão para vermelho */
+  color: white; /* Mudança da cor do texto para branco */
+  padding: 8px 16px; /* Adiciona preenchimento ao botão */
+  border: none; /* Remove a borda do botão */
+  cursor: pointer; /* Altera o cursor ao passar sobre o botão */
+  margin-left: auto; /* Move o botão para a direita */
+}
+
+.logout-button:hover {
+  background-color: darkred; /* Mudança da cor de fundo ao passar sobre o botão */
+}
