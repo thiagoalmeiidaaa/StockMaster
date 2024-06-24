@@ -20,11 +20,9 @@ Cliente/Público-alvo:
 
 Tecnologias:
 - Frontend: React.js e TypeScript
-- Backend: Node.js e MongoDB para o banco de dados
-- Design: Radix e TailwindCSS para uma experiência de usuário moderna e responsiva
 
 Características/diferenciais importantes do projeto:
 - Interface Intuitiva: O StockMaster possui uma interface fácil de usar, permitindo que os usuários naveguem e gerenciem seu estoque sem complicações.
 - Controle Total do Estoque: Com o StockMaster, os usuários podem acompanhar seus produtos em tempo real, monitorando entradas, saídas e níveis de estoque com precisão.
-- Alertas de Estoque Baixo: O sistema emite alertas automáticos quando os níveis de estoque atingem um ponto crítico, ajudando os usuários a evitar a falta de produtos.
+- Alertas de Estoque Baixo: O sistema emite alertas quando os níveis de estoque estarem prestes a negativar, ajudando os usuários a evitar a falta de produtos ou problemas com o estoque.
 - Acesso Remoto: Os usuários podem acessar o StockMaster de qualquer lugar, a qualquer momento, através de dispositivos móveis ou desktop, facilitando a gestão do estoque em movimento.
